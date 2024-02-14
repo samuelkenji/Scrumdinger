@@ -22,6 +22,7 @@
 		D0D440042B7BC1D400E7B685 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D440032B7BC1D400E7B685 /* DetailView.swift */; };
 		D0D440062B7CFBA800E7B685 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D440052B7CFBA800E7B685 /* DetailEditView.swift */; };
 		D0D440092B7D018E00E7B685 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D440082B7D018E00E7B685 /* ThemeView.swift */; };
+		D0D440412B7D07DA00E7B685 /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D440402B7D07DA00E7B685 /* ThemePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		D0D440032B7BC1D400E7B685 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		D0D440052B7CFBA800E7B685 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		D0D440082B7D018E00E7B685 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
+		D0D440402B7D07DA00E7B685 /* ThemePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +165,7 @@
 				D0D440052B7CFBA800E7B685 /* DetailEditView.swift */,
 				D0D43FFF2B7BB7A800E7B685 /* TrailingIconLabelStyle.swift */,
 				D0D440082B7D018E00E7B685 /* ThemeView.swift */,
+				D0D440402B7D07DA00E7B685 /* ThemePicker.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0D440412B7D07DA00E7B685 /* ThemePicker.swift in Sources */,
 				D0D43FFC2B7BB18100E7B685 /* DailyScrum.swift in Sources */,
 				D0D440042B7BC1D400E7B685 /* DetailView.swift in Sources */,
 				D0D440062B7CFBA800E7B685 /* DetailEditView.swift in Sources */,
